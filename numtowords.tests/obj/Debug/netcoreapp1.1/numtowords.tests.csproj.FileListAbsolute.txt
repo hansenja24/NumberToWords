@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/numtowords.tests.deps.json
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/numtowords.tests.runtimeconfig.json
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/numtowords.tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/numtowords.tests.dll
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/numtowords.tests.pdb
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/numtowords.dll
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/bin/Debug/netcoreapp1.1/numtowords.pdb
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/obj/Debug/netcoreapp1.1/numtowords.tests.AssemblyInfo.cs
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/obj/Debug/netcoreapp1.1/numtowords.tests.dll
+/Users/Guest/Desktop/numtowords.solutions/numtowords.tests/obj/Debug/netcoreapp1.1/numtowords.tests.pdb
